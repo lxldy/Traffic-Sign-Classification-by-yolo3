@@ -27,3 +27,6 @@ AI competitor project of Traffic Sign Classification by yolo3
 
 <b>9. install opencv</b><br/>
 `pip install opencv-contrib-python`
+
+## <b><font size=7>2 train your model</font></b>
+<b>1. prapare your data</b>
